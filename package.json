@@ -1,0 +1,9 @@
+{
+  "name": "ecsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@rails/ujs": "^7.1.2"
+  }
+}
